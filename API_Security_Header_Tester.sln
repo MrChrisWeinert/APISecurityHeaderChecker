@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33110.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "API_Security_Header_Tester", "API_Security_Header_Tester\API_Security_Header_Tester.csproj", "{30771471-DD99-4D2B-BD29-523175B9BADC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{30771471-DD99-4D2B-BD29-523175B9BADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{30771471-DD99-4D2B-BD29-523175B9BADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{30771471-DD99-4D2B-BD29-523175B9BADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{30771471-DD99-4D2B-BD29-523175B9BADC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E9462472-0239-4F7E-8A62-DA7EF1D76811}
+	EndGlobalSection
+EndGlobal

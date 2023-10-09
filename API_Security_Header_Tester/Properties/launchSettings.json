@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "API_Security_Header_Tester": {
+      "commandName": "Project",
+      "commandLineArgs": "-u https://localhost/healthchecksapi2/health"
+    }
+  }
+}
